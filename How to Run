@@ -1,0 +1,4 @@
+Combine all files in package using package <package_name>;
+Run it with 
+java <file_name>.java
+java Netfix-Antivirus-Activation.java
